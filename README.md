@@ -36,7 +36,7 @@ This project includes interactive navigation, responsive layouts, and styled com
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sivabalan-27/tripadvisor-clone.git
+   git clone https://github.com/sivabalan-27/tripAdvisor-clone.git
    ```
 2. Navigate to the project folder:
    ```bash
